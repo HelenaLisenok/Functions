@@ -1,0 +1,21 @@
+.input-block1 {
+    float: left;
+    margin: 0em 1em 0em 2em;
+}
+
+.input-block2 {
+    float: left;
+    margin: 0em 2em 0em 1em;
+}
+
+.answer {
+    border-style: double;
+    line-break: anywhere;
+}
+
+code {
+    display: block;
+    background-color: #eee;
+    white-space: pre;
+    padding: 10px;
+}
